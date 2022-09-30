@@ -1,6 +1,6 @@
 package com.nissan.bean;
 
-public class Undergrad extends Student1{
+public class Undergrad extends Student{
 
 	public boolean isPassed(double grade) {
 		if(grade>70){
